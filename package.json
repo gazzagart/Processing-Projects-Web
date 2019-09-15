@@ -1,0 +1,26 @@
+{
+  "name": "processing_project",
+  "version": "0.0.1",
+  "description": "Projects that create simple graphical and movement techniques.",
+  "main": "index.html",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "processing",
+    "particle",
+    "simulations",
+    "games"
+  ],
+  "author": "Gareth Maybery",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "p5": "^0.9.0"
+  }
+}
